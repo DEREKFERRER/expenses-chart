@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: hsl(27, 66%, 92%);
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
